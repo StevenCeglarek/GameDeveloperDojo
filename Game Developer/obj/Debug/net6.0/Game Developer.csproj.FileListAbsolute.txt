@@ -1,0 +1,15 @@
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/Game Developer
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/Game Developer.deps.json
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/Game Developer.runtimeconfig.json
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/Game Developer.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/ref/Game Developer.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/bin/Debug/net6.0/Game Developer.pdb
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.csproj.AssemblyReference.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.AssemblyInfoInputs.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.AssemblyInfo.cs
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.csproj.CoreCompileInputs.cache
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/ref/Game Developer.dll
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.pdb
+/Users/ceglareks954/Documents/The Coding Dojo/CSharpStack/CSharpStackJune2023/Game Developer/Game Developer/obj/Debug/net6.0/Game Developer.genruntimeconfig.cache
