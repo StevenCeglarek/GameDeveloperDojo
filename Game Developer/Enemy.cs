@@ -4,7 +4,19 @@ namespace Game_Developer
 	public class Enemy
 	{
 		public string Name;
-		private int Health;
+		private int _health;
+
+		public int Health
+		{
+			get
+			{
+				return _health;
+			}
+			set
+			{
+				_health = value;
+			}
+		}
 		public List<Attack> AttackList;
 
 		public Enemy(string name)
@@ -35,6 +47,17 @@ namespace Game_Developer
 			this.AttackList.Add(attackToBeAdded);
 			return this.AttackList;
 		}
-	}
+
+        // Inside of the Enemy class
+        public virtual void PerformAttack(Enemy Target, Attack ChosenAttack)
+        {
+			Target.Health = Target.Health - ChosenAttack.DamageAmount;
+            Console.WriteLine($"{this.Name} attacks {Target.Name} using {ChosenAttack.Name}, dealing {ChosenAttack.DamageAmount} damage and reducing {Target.Name}'s health to {Target.Health}!!");
+        }
+
+
+
+
+    }
 }
 

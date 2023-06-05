@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{F9673A26-CCF1-45F6-946C-C9A7838AA842}|Default">
+  <MonoDevelop.Ide.ItemProperties.Game_220Developer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game Developer/Enemy.cs">
+    <Files>
+      <File FileName="Game Developer/Program.cs" />
+      <File FileName="Game Developer/Attack.cs" />
+      <File FileName="Game Developer/Enemy.cs" Line="36" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game Developer" expanded="True">
+            <Node name="Game Developer" expanded="True">
+              <Node name="Enemy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Game_220Developer FirstBuild="True" />
 </Properties>
